@@ -1,0 +1,11 @@
+{
+  "Lang": {
+    "default": "en_US",
+    "value": "en_US"
+  },
+  "ThreadNo": {
+    "default": 4,
+    "value": 4
+  }
+
+}
